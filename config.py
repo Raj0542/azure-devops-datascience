@@ -1,4 +1,4 @@
-server = 'intel1.database.windows.net'
-ddatabase = 'intellipaat'
-username = 'intel'
-password = 'Paat@123'
+server = 'az-sql-db01.database.windows.net'
+ddatabase = 'azuresqldb'
+username = 'azadmin'
+password = 'azure@123'
